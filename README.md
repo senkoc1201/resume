@@ -13,6 +13,7 @@ scripted usage in applications. It also removes many non-core features:
 
 There are also additional customizations included in this toolchain:
 
+
  - Git-LFS
  - certificate bundle for Linux consumers
 
